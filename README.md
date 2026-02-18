@@ -4,7 +4,7 @@ Business intelligence & sales analysis project built in Power BI using the Super
 
 ## Dashboard Preview
 
-![Overview](overview.png)
+![Overview](Overview.png)
 ![Product & Category Analysis](Product_&_Category_Analysis.png)
 ![Product Profitability Analysis](Product_Profitability_Analysis.png)
 ![Customer Analysis](Customer_Analysis.png)
