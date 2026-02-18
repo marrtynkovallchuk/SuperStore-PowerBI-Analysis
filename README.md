@@ -2,6 +2,18 @@
 
 Business intelligence & sales analysis project built in Power BI using the SuperStore dataset.
 
+## Dashboard Preview
+
+![Overview](overview.png)
+![Product & Category Analysis](Product_&_Category_Analysis.png)
+![Product Profitability Analysis](Product_Profitability_Analysis.png)
+![Customer Analysis](Customer_Analysis.png)
+![Countries / Markets Analysis](Countries_Markets_Analysis.png)
+![Shipping & Logistics](Shipping_&_Logistics.png)
+![Discount / Promotions Analysis](Discount_Promotions_Analysis.png)
+![Time / Trend Analysis](Time_Trend_Analysis.png)
+![Profitability Analysis](Profitability_Analysis.png)
+
 ##  Project Overview
 
 This project explores sales performance, profitability, customer behavior, discounts, logistics, and geographic trends using interactive Power BI dashboards.
