@@ -4,14 +4,31 @@ Business intelligence & sales analysis project built in Power BI using the Super
 
 ## Dashboard Preview
 
+Overview:
 ![Overview](Overview.png)
+
+Product & Category Analysis:
 ![Product & Category Analysis](Product_&_Category_Analysis.png)
+
+Product Profitability Analysis:
 ![Product Profitability Analysis](Product_Profitability_Analysis.png)
+
+Customer Analysis:
 ![Customer Analysis](Customer_Analysis.png)
+
+Countries / Markets Analysis:
 ![Countries / Markets Analysis](Countries_Markets_Analysis.png)
+
+Shipping & Logistics:
 ![Shipping & Logistics](Shipping_&_Logistics.png)
+
+Discount / Promotions Analysis:
 ![Discount / Promotions Analysis](Discount_Promotions_Analysis.png)
+
+Time / Trend Analysis:
 ![Time / Trend Analysis](Time_Trend_Analysis.png)
+
+Profitability Analysis:
 ![Profitability Analysis](Profitability_Analysis.png)
 
 ##  Project Overview
@@ -79,7 +96,23 @@ The report helps answer questions such as:
 ##  Repository Contents
 
 - `SuperStore_Report.pbix` – Power BI report file  
-- Dataset file (CSV / Excel)  
+- Dataset file (CSV / Excel)
+
+## BigQuery Analysis
+
+In addition to Power BI visualizations, this project includes SQL analysis performed in **BigQuery**.  
+The queries explore sales, profit, discounts, shipping, country performance, and time trends.
+
+**Analysis blocks:**
+1. **Overview** – Total rows, unique orders, total sales/profit, profit margin
+2. **Category & Subcategory Analysis** – Sales and profit breakdown
+3. **Top & Loss-making Products** – Top 10 and non-profitable products
+4. **Discount Analysis** – Average discount, discounted orders, discount bands, and impact by category
+5. **Shipping Analysis** – Average & total shipping cost, shipping mode performance
+6. **Country Analysis** – Top countries, loss-making countries
+7. **Time / Trend Analysis** – Yearly trends in sales and profit
+
+All queries are stored in the `/sql` folder in **BigQuery Standard SQL** format.
 
 ##  How to Open
 
