@@ -82,7 +82,7 @@ Main fields include:
 - Country  
 - Shipping information  
 
-## 🔎 Analytical Focus
+##  Analytical Focus
 
 The report helps answer questions such as:
 
